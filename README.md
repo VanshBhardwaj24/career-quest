@@ -24,6 +24,4 @@ Career Quest is a gamified platform designed to help you track your career progr
 
 We welcome contributions to Career Quest! See our [Contributing Guidelines](link to contributing guidelines) for more information.
 
-## License
 
-[License information - e.g., MIT License]
